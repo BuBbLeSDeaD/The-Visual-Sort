@@ -15,13 +15,13 @@ A React App to understand the basic concepts of Sorting Algorithms. It takes a v
 * start,pause and restart execution
 
 
-### Technologies Used:
+## Technologies Used:
 * React with hooks
 * html & css
 * Component libraries like React Material etc.
 * Vite Bundler
 
-### Guide to run in your Local MAchine:
+## Guide to run in your Local MAchine:
 * Install Git Clone 
 * Navigate in ur current directory using Terminal 
 * npm install
