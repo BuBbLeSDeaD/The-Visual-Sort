@@ -23,7 +23,7 @@
 * Component libraries like React Material etc.
 * Vite Bundler
 
-## Guide to run in your Local MAchine:
+## Guide to run in your Local Machine:
 * Install Git Clone 
 * Navigate in ur current directory using Terminal 
 * npm install
